@@ -5,4 +5,4 @@
 * Mail: zhaowenbo@sjtu.edu.cn
 
 # Research Orientation
-* Coordinated Optimization between Software and Hardware
+* Coordinated Optimization of Software and Hardware
