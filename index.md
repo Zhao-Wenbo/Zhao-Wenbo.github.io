@@ -2,4 +2,4 @@
 * Name: Zhao Wenbo
 * Education: Undergraduate
 * Institution: Shanghai Jiaotong University
-* Mail: zhaowenbo@sjtu.edu.cn
+* Mail: [zhaowenbo@sjtu.edu.cn](zhaowenbo@sjtu.edu.cn)
